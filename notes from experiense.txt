@@ -1,0 +1,4 @@
+ ejs use karte time 1 views forlder banana padta ha jisme .ejs file rakhte ha
+ fir render ka use karte ha 
+ if tum webpage se kuchh input lete ho or use update karke show karana chahte ho to sare varibles ko 1 sath hi define
+karna hoga post method me redirect karna hoga bs like res.render("list", {name: name, age: age, sex:sex});
